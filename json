@@ -1,0 +1,21 @@
+{
+  "content": "Welcome to the PET Discord! We have a few simple rules for you to follow. As such, violators will be sanctioned strictly!",
+  "embeds": [
+    {
+      "title": "PET Discord Rules",
+      "description": "**1. Be respectful of others.** Pinewood strives to be a welcoming and friendly community. For that reason harassment, discrimination, bullying, doxxing and drama are not allowed (even if you are joking). We also don't allow you to ship other people without their consent. Harassment/Bullying in DMs can be moderated if reported.\n\n**2. No NSFW content.** As a group with members of all ages, we do not allow: Porn, Gore, Sexual Fanfics, Bestiality, CP/Lolita and almost all real-life bodily floods. Images or Videos suggestive of NSFW are also prohibited. Keep text PG/PG-13.\n\n**3. No spam.** In order to keep our server on topic, we do not allow: advertising (even in DMs), mass/ghost pings, ALL CAPS, large images, trolling, and etc. In order to protect peoples health, flashing lights, extremely loud audio, and other health risks are not allowed. \n\n**4. Keep stuff in the correct channel.** Make sure to check the channel topic and pinned messages: That is where you will find important information, and instructions. (Hint: <#462801967207677952> and <#499045708867960834>! should be used if you are off-topic)\n\n**5. You must be at least 13 years old to be here.** In order to comply with Discord ToS, we are required to remove anyone under 13 years old, or claiming to be so. Even if you are older than 13, it is still preferred that you keep discussion of your age to a minimum.\n\n**6. Moderators may apply discretion when necessary.**  In some cases, behaviour does not violate the rules, but is still unwelcome. Moderators may apply sanctions at their discretion, in order to keep the server safe and welcoming!",
+      "url": "https://github.com/accidentalmeme/rules",
+      "color": 13055542,
+      "author": {
+        "name": "Moderators",
+        "icon_url": "https://cdn.discordapp.com/icons/436670173777362944/be5b5b9018c837154a735844507c86a1.png"
+      },
+      "footer": {
+        "text": "Proposal : 3NOV20",
+        "icon_url": "https://cdn.discordapp.com/icons/436670173777362944/be5b5b9018c837154a735844507c86a1.png"
+      },
+      "timestamp": "2020-11-03T21:00:00.000Z"
+    }
+  ],
+  "username": "Kronos"
+}
